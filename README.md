@@ -61,7 +61,7 @@ A modern, interactive educational platform built with React, TypeScript, and bea
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/frankmathewsajan/FunEdu.git
+   git clone https://github.com/anjusinghn/FunEdu
    cd FunEdu
    ```
 
