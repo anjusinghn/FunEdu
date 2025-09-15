@@ -307,7 +307,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Frank Mathew Sajan**
+**Anju Singh**
 - GitHub: [@anjusinghn](https://github.com/anjusinghn)
 - Email: anjusinghno@gmail.com
 
