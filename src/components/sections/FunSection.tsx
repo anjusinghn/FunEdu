@@ -221,7 +221,7 @@ const FunSection: React.FC = () => {
           </Col>
         </Row>
 
-        <style jsx>{`
+        <style>{`
           @keyframes musicBar {
             from { height: 10px; }
             to { height: 40px; }

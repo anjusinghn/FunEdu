@@ -41,19 +41,19 @@ const Navbar: React.FC = () => {
         <BSNavbar.Toggle aria-controls="basic-navbar-nav" />
         <BSNavbar.Collapse id="basic-navbar-nav">
           <Nav className="ms-auto">
-            <Nav.Link href="#home" className="nav-item-custom">
+            <Nav.Link onClick={() => navigate('/')} className="nav-item-custom">
               <Home size={18} className="me-1" />
               Home
             </Nav.Link>
-            <Nav.Link href="#about" className="nav-item-custom">
+            <Nav.Link onClick={() => navigate('/about')} className="nav-item-custom">
               <Info size={18} className="me-1" />
               About
             </Nav.Link>
-            <Nav.Link href="#store" className="nav-item-custom">
+            <Nav.Link onClick={() => navigate('/store')} className="nav-item-custom">
               <ShoppingBag size={18} className="me-1" />
               Store
             </Nav.Link>
-            <Nav.Link href="#career" className="nav-item-custom">
+            <Nav.Link onClick={() => navigate('/career')} className="nav-item-custom">
               <Briefcase size={18} className="me-1" />
               Career
             </Nav.Link>

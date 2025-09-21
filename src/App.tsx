@@ -12,7 +12,8 @@ import {
   Testimonials,
   FunSection,
   Footer,
-  Dashboard
+  Dashboard,
+  About
 } from './components';
 import Login from './components/auth/Login';
 import Register from './components/auth/Register';
@@ -75,6 +76,7 @@ function App() {
             <Route path="/login" element={<Login />} />
             <Route path="/register" element={<Register />} />
             <Route path="/dashboard" element={<Dashboard />} />
+            <Route path="/about" element={<About />} />
           </Routes>
         </div>
       </Router>
