@@ -307,9 +307,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Frank Mathew Sajan**
-- GitHub: [@frankmathewsajan](https://github.com/frankmathewsajan)
-- Email: frankmathewsajan@example.com
+**Anju Singh**
+- GitHub: [@anjusinghn](https://github.com/anjusinghn)
+- Email: anjusinghno@gmail.com
 
 ## 🙏 Acknowledgments
 

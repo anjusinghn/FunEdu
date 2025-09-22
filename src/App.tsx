@@ -13,7 +13,9 @@ import {
   FunSection,
   Footer,
   Dashboard,
-  About
+  About,
+  Career,
+  Store
 } from './components';
 import Login from './components/auth/Login';
 import Register from './components/auth/Register';
@@ -77,6 +79,8 @@ function App() {
             <Route path="/register" element={<Register />} />
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/about" element={<About />} />
+            <Route path="/career" element={<Career />} />
+            <Route path="/store" element={<Store />} />
           </Routes>
         </div>
       </Router>

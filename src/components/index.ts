@@ -10,7 +10,9 @@ export {
   Stats, 
   Testimonials, 
   FunSection, 
-  About
+  About,
+  Career,
+  Store
 } from './sections';
 
 // Dashboard
